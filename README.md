@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil2022
 - 👀 I’m interested in Web and Software development
-- 🌱 I have recently completed Bacherlor of Engineering in Computer Engineering
+- 🌱 I have recently completed Bacherlor of Engineering in Computer Engineering with 74.32%
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
